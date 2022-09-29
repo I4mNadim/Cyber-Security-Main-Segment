@@ -1,4 +1,4 @@
-# Cyber-Security-Main-Segment
+# Cyber-Security-Main-Segments
 
 There are Six main segments in Cyber Security.
 
